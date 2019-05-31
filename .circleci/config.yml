@@ -51,9 +51,6 @@ jobs:
             ls -lahF venv/bin
             python3 manage.py test
 
-      - run:
-          name: Build Docker image
-          command: docker build -t test_django_web:latest .
 
       - store_artifacts:
           path: test-reports
