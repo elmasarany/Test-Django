@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e2ba8be4-1966-4620-a4e8-afc224596e9b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+            <state relative-caret-position="267">
+              <caret line="51" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="51" />
             </state>
           </provider>
         </entry>
@@ -180,7 +179,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559294237896</updated>
-      <workItem from="1559294251233" duration="3050000" />
+      <workItem from="1559294251233" duration="3275000" />
     </task>
     <task id="LOCAL-00001" summary="Add readME file">
       <created>1559295692183</created>
@@ -210,11 +209,39 @@
       <option name="project" value="LOCAL" />
       <updated>1559306565232</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fix Ci">
+      <created>1559306668264</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559306668264</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Try to fix Ci">
+      <created>1559306743942</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1559306743942</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Try to fix Ci">
+      <created>1559306797188</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1559306797188</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Try to fix Ci">
+      <created>1559306885554</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559306885554</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3050000" />
+    <option name="totallyTimeSpent" value="3275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -251,7 +278,8 @@
     <MESSAGE value="Add Hello world app and simple Test" />
     <MESSAGE value="Add requirements.txt" />
     <MESSAGE value="Fix Ci" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix Ci" />
+    <MESSAGE value="Try to fix Ci" />
+    <option name="LAST_COMMIT_MESSAGE" value="Try to fix Ci" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Test_Django/settings.py">
@@ -303,8 +331,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+        <state relative-caret-position="267">
+          <caret line="51" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="51" />
         </state>
       </provider>
     </entry>
