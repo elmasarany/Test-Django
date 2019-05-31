@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2ba8be4-1966-4620-a4e8-afc224596e9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hello/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Django/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Django/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,11 +30,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hello/tests.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -86,6 +94,7 @@
         <option value="$PROJECT_DIR$/hello/urls.py" />
         <option value="$PROJECT_DIR$/Test_Django/urls.py" />
         <option value="$PROJECT_DIR$/hello/tests.py" />
+        <option value="$PROJECT_DIR$/.circleci/config.yml" />
       </list>
     </option>
   </component>
@@ -110,7 +119,7 @@
             <path>
               <item name="Test_Django" type="b2602c69:ProjectViewProjectNode" />
               <item name="Test_Django" type="462c0819:PsiDirectoryNode" />
-              <item name="hello" type="462c0819:PsiDirectoryNode" />
+              <item name=".circleci" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -171,7 +180,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559294237896</updated>
-      <workItem from="1559294251233" duration="2266000" />
+      <workItem from="1559294251233" duration="3050000" />
     </task>
     <task id="LOCAL-00001" summary="Add readME file">
       <created>1559295692183</created>
@@ -180,11 +189,32 @@
       <option name="project" value="LOCAL" />
       <updated>1559295692184</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Hello world app and simple Test">
+      <created>1559305707409</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559305707409</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add requirements.txt">
+      <created>1559305844208</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559305844208</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fix Ci">
+      <created>1559306565232</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559306565232</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2266000" />
+    <option name="totallyTimeSpent" value="3050000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -197,7 +227,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.6406444" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.42503098" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -218,7 +248,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add readME file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add readME file" />
+    <MESSAGE value="Add Hello world app and simple Test" />
+    <MESSAGE value="Add requirements.txt" />
+    <MESSAGE value="Fix Ci" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix Ci" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Test_Django/settings.py">
@@ -265,6 +298,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
         </state>
       </provider>
     </entry>
